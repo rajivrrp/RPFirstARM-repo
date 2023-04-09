@@ -20,6 +20,6 @@ steps:
     location: 'Central India'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/rajivrrp/RPFirstARM-repo/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName RPFirstARM'
+    overrideParameters: '-projectName rpfirstarm'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
